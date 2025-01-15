@@ -20,6 +20,8 @@ ProvinceAbbreviation: Abbreviation for provinces.
 Latitude: Latitude coordinate for geographical plotting.
 Longitude: Longitude coordinate for geographical plotting.
 TotalPositiveCases: Total confirmed positive COVID-19 cases.
+
+
 Technologies Used
 Python: Programming language
 Pandas: Data manipulation and preprocessing
